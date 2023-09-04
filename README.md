@@ -4,4 +4,4 @@ Giriş ekranımız, kullanıcı adı, şifre ve email bilgilerinizi güvenli bir
 
 <h2>Ekran Görüntüsü</h2>
 
-![](giris/gif)
+![](giris.gif)
