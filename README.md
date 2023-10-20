@@ -7,14 +7,14 @@ Bu proje, HTML ve CSS kullanılarak oluşturulan basit bir giriş ekranını iç
 <li>"Kullanıcı Adı veya Mail" ve "Şifre" alanlarına geçerli bilgileri girin.</li>
 <li>"Giriş Yap" butonuna tıklayarak giriş yapın.</li>
 <li>"Şifremi Unuttum" veya "Bir hesabım yok. Hesap oluştur." bağlantılarına tıklayarak diğer sayfalara geçiş yapabilirsiniz.</li>
-<ul>
+</ul>
 
 <h2> Kullanilan Teknolojiler</h2>
 <ul> 
 <li>HTML</li>
 <li>CSS</li>
 
-<ul>
+</ul>
 
 <h2>Ekran Görüntüsü</h2>
 
